@@ -1,0 +1,11 @@
+{
+  "name": "poc-project",
+  "version": "0.0.1",
+  "description": "POC Project to integrate with capacitor",
+  "author": "Yehuda Dani Utomo",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

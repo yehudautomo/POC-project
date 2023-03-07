@@ -1,0 +1,7 @@
+{
+  "appId": "org.pragetx.poc-project.app",
+  "appName": "poc-project",
+  "bundledWebRuntime": false,
+  "npmClient": "[object Object]",
+  "webDir": "www"
+}
